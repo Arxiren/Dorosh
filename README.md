@@ -1,2 +1,0 @@
-# Dorosh
-xz
